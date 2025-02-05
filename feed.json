@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://github.com/vicodut/testsite",
+    "feed_url": "https://github.com/vicodut/testsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "test"
+    },
+    "items": [
+    ]
+}
